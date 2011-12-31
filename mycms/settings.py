@@ -106,7 +106,7 @@ CMS_TEMPLATES = (
     ('example.html', 'Example Template'),
 )
 
-ROOT_URLCONF = 'urls'
+ROOT_URLCONF = 'mycms.urls'
 
 TEMPLATE_DIRS = (
     os.path.join(PROJECT_DIR, 'templates'),
