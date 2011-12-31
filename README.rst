@@ -32,6 +32,7 @@ Do you want to use Django-cms on dotcloud but don't know where to start? All you
     $ dotcloud
 
 9. create your dotcloud application
+
     $ dotcloud create mycmsapp
 
 10. push your code into dotcloud
@@ -48,5 +49,6 @@ Do you want to use Django-cms on dotcloud but don't know where to start? All you
 
     $ dotcloud alias add ramen.www www.example.com
 
-For more info about dotcloud and what you can do with with it. check out the docs
-http://docs.dotcloud.com/firststeps/platform-overview/
+For more info about dotcloud and django-cms and what you can do with with it. check out their docs
+ - http://docs.dotcloud.com/firststeps/platform-overview/
+ - https://www.django-cms.org/en/documentation/
